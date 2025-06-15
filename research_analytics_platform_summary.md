@@ -21,7 +21,7 @@ I have successfully created a professional-grade Research & Analytics Platform f
 - **Layout**: Grid-based responsive design with intuitive navigation
 - **Interactions**: Smooth animations and micro-interactions
 - **Accessibility**: WCAG 2.1 AA compliance ready
-- **Branding**: "Made with Manus" footer integration
+- **Branding**: "Made with SkkJodhpur" footer integration
 
 ## Core Platform Components Implemented
 
@@ -123,7 +123,7 @@ I have successfully created a professional-grade Research & Analytics Platform f
 ## Platform Access
 
 The Research & Analytics Platform is now permanently deployed and accessible at:
-- **Production URL**: https://nrkjzllu.manus.space
+- **Production URL**: https://research-analytics-platform.vercel.app/
 - **Status**: Fully functional with all modules operational
 
 ## Next Steps
